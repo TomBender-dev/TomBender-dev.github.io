@@ -1,0 +1,5 @@
+unity.com, 3526935, DIRECT, 96cabb5fbdde37a7
+google.com, pub-1234567890123456, RESELLER, f08c47fec0942fa0
+google.com, pub-1659074761014407, RESELLER, f08c47fec0942fa0
+inmobi.com, 10001, RESELLER, 831206f693e8cb9b
+applvin.com, 12345, RESELLER, 123456789abcdef0
